@@ -8,4 +8,4 @@ function navToggle() {
 }
 
 btn.addEventListener('click', navToggle)
-// javascript
+// javascript ok
